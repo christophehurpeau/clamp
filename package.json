@@ -34,4 +34,5 @@
     "path": "./bin",
     "url": "https://github.com/JulienBreux/clamp/releases/download/v{{version}}/clamp_{{version}}_{{platform}}_{{arch}}.tar.gz"
   }
+  "files": []
 }
